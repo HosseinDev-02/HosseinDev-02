@@ -7,16 +7,16 @@
 > Front End Developer
 
 
-<h2>
+<h1>
   About Me
-</h2>
+</h1>
 
 <p>Computer Engineering Student . I am Training to Become a Full Stack Developer , Enjoyed Doing Different Challenges and Ready to do Your Projects</p>
 
 <br/>
 
-<h2>
+<h1>
   Skills
-</h2>
+</h1>
 
 
