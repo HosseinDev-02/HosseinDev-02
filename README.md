@@ -1,16 +1,26 @@
-## Hi there 👋
+<h2>
+  Hi,I'm Hossein
+</h2>
 
-<!--
-**HosseinDev-02/HosseinDev-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const me = {
+  name: 'Hossein Rostami',
+  age: 22,
+  Job: [
+    'Computer Engineering Student',
+    'Front End Developer Student'
+  ],
+  level: 'Mid',
+  Skills: [
+    'Htnl 5',
+    'Css 3',
+    'JavaScript',
+    'Tailwind Css',
+    'RegEx'
+  ],
+  live: {
+    country: 'iran',
+    city: 'Saveh'
+  }
+}
+```
