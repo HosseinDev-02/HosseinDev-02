@@ -10,7 +10,7 @@
 
 * A Mid-Level Front End Developer
 * You Can Contact Me With **RostamiDev2002@gmail.com**
-* I Just Started Learning **React Js**
+* I Just Started Learning **Nex Js**
 
 <h3>
   Skills
